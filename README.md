@@ -605,5 +605,8 @@ miejsc w stanie nie gorszym, niż zastany na początku.
 1. Podczas zapisów obowiązuje zadatek w wysokości 400 zł, który będzie przeznaczony na pokrycie kosztów noclegu.
 1. Zapisy odbywają się telefonicznie u organizatora pod numerem telefonu: _________. Organizator potwierdza uczestnictwo w wycieczce po zapłacie zadatku przez uczestnika.
 
+# Prawo
+* Organizator nie prowadzi działalności gospodarczej w zakresie organizowania imprez turystycznych i realizuje wycieczki okazjonalnie na zasadach niezarobkowych i wyłącznie ograniczonej grupie uczestników. Wycieczka nie podlega ustawie o imprezach turystycznych i powiązanych usługach turystycznych.
+
 # Organizator
 Michał Mocarski
