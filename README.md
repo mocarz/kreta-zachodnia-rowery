@@ -385,6 +385,8 @@ Orientacyjny godzinowy plan dnia:
 
 Do wąwozu Samaria wyruszamy wcześnie rano aby uniknąć tłumów. Z Omalos do wejścia wąwozu docieramy pieszo, gdzie nabywamy bilet wstępu kosztujący 5 euro. Szlak prowadzący na południe w stronę morza ma charakter liniowy i jego przejście zajmuje 6-8 godzin. Po przebyciu szlaku i dotarciu do nadmorskiej miejscowości Agia Rumeli relaksujemy się nad śródziemnomorskim brzegiem, korzystamy z lokalnej gastronomii i czekamy na prom do Sougia (koszt promu to 15 euro). Ostatni prom odpływa o godz. 18. Po dopłynięciu wsiadamy na czekający na nas autobus, który wiezie nas krętymi drogami do Omalos. Koszt biletu na autobus to 5,5 euro.
 
+Organizator dzień wcześniej sprawdza prognozę pogody i upewnia się że prom z Agia Rumeli odpływa według planu.
+
 Nocleg w **To Exari**.
 
 ```geojson
@@ -550,6 +552,8 @@ Orientacyjny godzinowy plan dnia:
 * Niekorzystna pogoda lub inne opóźnienie wycieczki względem harmonogramu
   * Rezygnujemy z pieszej wędrówki po wąwozie Samaria
   * Rezygnujemy z wycieczki na plażę w Stavros
+* Prom z Agia Rumeli nie kursuje
+  * Rezerwujemy nocleg w Agia Rumeli.
 * Konflikt pomiędzy uczestnikami wycieczki
   * Dokładne zaplanowanie wycieczki, określenie jej charakteru, razem z oszacowaniem budżetu ustala wiele ważnych kwestii jeszcze przed wyjazdem. Jeśli mimo tego dojdzie do konfliktu pomiędzy uczestnikami, z różnych powodów, spróbujemy odpocząć od siebie, dając sobie czas na ochłonięcie i przemyślenia. Możemy zdecydować, że podróż danego dnia kontynuujemy osobno i spotkamy się wieczorem w umówionym miejscu.
 * Agresywne psy w mniejszych miejscowościach biegające luzem
@@ -598,8 +602,7 @@ Orientacyjny godzinowy plan dnia:
 1. Uczestnicy są zobowiązani do wykonywania poleceń Organizatora.
 1. Za szkody wyrządzone przez uczestników wycieczki i za szkody wyrządzone przez osoby trzecie wobec uczestników Organizator nie odpowiada.
 1. Organizator nie zapewnia ubezpieczenia.
-1.  Uczestnicy powinni dbać o zachowanie porządku w miejscach pobytu i pozostawienie tych
-miejsc w stanie nie gorszym, niż zastany na początku.
+1. Uczestnicy powinni dbać o zachowanie porządku w miejscach pobytu i pozostawienie tych miejsc w stanie nie gorszym, niż zastany na początku.
 1. Wycieczka odbędzie się bez względu na warunki pogodowe.
 1. W czasie jazdy obowiązuje całkowity zakaz spożywania alkoholu.
 
