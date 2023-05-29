@@ -581,13 +581,13 @@ Orientacyjny godzinowy plan dnia:
 * +30 877 438 5767 - Jrop service
 
 # Regulamin wycieczki
-1. Zgłoszenia odbywają się za pomocą formularza https://docs.google.com/forms/d/e/1FAIpQLScpRhTcOLeXy93VPNNHmWHCVAHa2uK7srKIWgrKXkcYr3MKvg/viewform.
+1. Zgłoszenia odbywają się za pomocą formularza https://forms.gle/YXoUEiVcPxH3hpYQ6.
 1. Podczas zapisów uczestnik zobowiązany jest do wpłacenia zadatku w wysokości 1000 zł, który będzie przeznaczony na pokrycie kosztów noclegu.
 1. Zapisy trwają do 1 marca 2024.
-1. Organizator potwierdza odbycie się wycieczki jeśli zbiorą się minimum 4 osoby.
-1. W chwili potwierdzenia odbycia się wycieczki przez Organizatora, uczestnik samodzielnie nabywa bilet na samolot, a Organizator dokonuje rezerwacji noclegów.
+1. Organizator potwierdza odbycie się wycieczki jeśli zbiorą się minimum 4 osoby, które wpłaciły zadatek.
+1. W momencie zebrania się minimalnej liczby uczestników, którzy wpłacili zadatek, Organizator potwierdzenia odbycia się wycieczki. Wówczas uczestnik samodzielnie nabywa bilet na samolot, a Organizator dokonuje rezerwacji noclegów. Uczestnik nie powinien kupować biletu na samolot przed potwierdzeniem odbycia się wycieczki przez Organizatora.
 1. Jeśli koszt noclegów przekroczy kwotę zadatku, uczestnik zobowiązany jest do dopłacenia różnicy w ciągu 3 dni.
-1. W przypadku gdy na wycieczkę nie zgłosi się minimalna liczba osób, Organizator informuje o odwołaniu wycieczki oraz zwraca zadatek.
+1. W przypadku gdy na wycieczkę nie zgłosi się minimalna liczba osób, Organizator informuje o odwołaniu wycieczki w dniu końca zapisów (1 marca 2024) oraz zwraca zadatek.
 1. Organizator nie zapewnia transportu na lotnisko.
 1. W wycieczce uczestnicy biorą udział na własną odpowiedzialność, niezależnie od warunków pogodowych zastanych na trasach wycieczki i w razie wypadku nie będą dochodzić odszkodowania od Organizatora.
 1. W wycieczce mogą brać udział tylko osoby pełnoletnie.
