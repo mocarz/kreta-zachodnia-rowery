@@ -16,7 +16,7 @@ Tak więc, dzielny poszukiwaczu przygód, nadszedł czas, aby wyruszyć na rower
 26.04 - 3.05 2024, 8 dni
 
 ## Liczba uczestników
-Od 4 do 8 osób. W przypadku większej liczby uczestników, podczas jazdy grupa będzie podzielona na dwie mniejsze.
+Od 4 do 8 osób.
 
 # Cel wycieczki
 * poznanie piękna przyrody kreteńskiego krajobrazu
@@ -154,7 +154,7 @@ Inne
 * jedzenie
 
 # Koszty
-* Noclegi 15-25 euro za osobę za dzień. Im więcej osób w pokoju, tym taniej za osobę.
+* Noclegi 15-25 euro za osobę za dzień.
 * Loty 500-1000 zł + 2x 288 zł za przewóz roweru
 * Śniadania we własnym zakresie lub wykupione w miejscu noclegu. Obiad od 10 euro.
 * Wycieczka do wąwozu Samaria 25,5 euro
@@ -186,8 +186,7 @@ Orientacyjny godzinowy plan dnia:
 * 18:30 wyjazd z Seitan Limania
 * 21:00 przyjazd do Chanii wliczając przerwą na posiłek po drodze i zakupy
 
-Przykładowy Nocleg:
-* Gregory Comfort Hotel
+Nocleg w **Gregory Comfort Hotel**.
 
 Całkowity dystans do pokonania: 35 km, całkowity wznios: 600 m, całkowity spadek: 690 m.
 
@@ -226,8 +225,7 @@ Orientacyjny godzinowy plan dnia:
 * 16:00 - 17:00 wypoczynek na Balos
 * 17:00 - 19:00 powrót na kwaterę, zakupy w sklepie
 
-Przykładowy Nocleg:
-* Agarathos Traditional Rooms with Pool
+Nocleg w **Agarathos Traditional Rooms with Pool**.
 
 ```geojson
 {
@@ -283,8 +281,7 @@ Orientacyjny godzinowy plan dnia:
 * 15:30 - 16:00 zakwaterowanie
 * 16:00 plaża Elafonisi, zakupy w sklepie, czas wolny
 
-Przykładowy Nocleg:
-* Lafo Rooms
+Nocleg w **Lafo Rooms**.
 
 ```geojson
 {
@@ -318,8 +315,7 @@ Orientacyjny godzinowy plan dnia:
 * 9:30 wyjazd do Palaiochora, obiad po drodze
 * 17:30 przyjazd do Palaiochora, zakupy, czas wolny
 
-Przykładowy Nocleg:
-* Georgia
+Nocleg w **Georgia**.
 
 ```geojson
 {
@@ -352,8 +348,7 @@ Orientacyjny godzinowy plan dnia:
 * 9:30 wyjazd do Omalos, obiad po drodze
 * 16:30 przyjazd do Omalos, zakupy, czas wolny
 
-Przykładowy Nocleg:
-* To Exari
+Nocleg w **To Exari**.
 
 ```geojson
 {
@@ -390,8 +385,9 @@ Orientacyjny godzinowy plan dnia:
 
 Do wąwozu Samaria wyruszamy wcześnie rano aby uniknąć tłumów. Z Omalos do wejścia wąwozu docieramy pieszo, gdzie nabywamy bilet wstępu kosztujący 5 euro. Szlak prowadzący na południe w stronę morza ma charakter liniowy i jego przejście zajmuje 6-8 godzin. Po przebyciu szlaku i dotarciu do nadmorskiej miejscowości Agia Rumeli relaksujemy się nad śródziemnomorskim brzegiem, korzystamy z lokalnej gastronomii i czekamy na prom do Sougia (koszt promu to 15 euro). Ostatni prom odpływa o godz. 18. Po dopłynięciu wsiadamy na czekający na nas autobus, który wiezie nas krętymi drogami do Omalos. Koszt biletu na autobus to 5,5 euro.
 
-Przykładowy Nocleg:
-* To Exari
+Organizator dzień wcześniej sprawdza prognozę pogody i upewnia się że prom z Agia Rumeli odpływa według planu.
+
+Nocleg w **To Exari**.
 
 ```geojson
 {
@@ -449,8 +445,7 @@ Orientacyjny godzinowy plan dnia:
 * 11:30 dojazd do Chanii
 * 12:30 - 20:00 dojazd na lotnisko w celu sprawdzenia kartonów, klasztor Holy Trinity (Agia Triada), plaża Stavros, obiad i powrót do Chanii
 
-Przykładowy Nocleg:
-* Gregory Comfort Hotel
+Nocleg w **Gregory Comfort Hotel**.
 
 ```geojson
 {
@@ -557,6 +552,8 @@ Orientacyjny godzinowy plan dnia:
 * Niekorzystna pogoda lub inne opóźnienie wycieczki względem harmonogramu
   * Rezygnujemy z pieszej wędrówki po wąwozie Samaria
   * Rezygnujemy z wycieczki na plażę w Stavros
+* Prom z Agia Rumeli nie kursuje
+  * Rezerwujemy nocleg w Agia Rumeli.
 * Konflikt pomiędzy uczestnikami wycieczki
   * Dokładne zaplanowanie wycieczki, określenie jej charakteru, razem z oszacowaniem budżetu ustala wiele ważnych kwestii jeszcze przed wyjazdem. Jeśli mimo tego dojdzie do konfliktu pomiędzy uczestnikami, z różnych powodów, spróbujemy odpocząć od siebie, dając sobie czas na ochłonięcie i przemyślenia. Możemy zdecydować, że podróż danego dnia kontynuujemy osobno i spotkamy się wieczorem w umówionym miejscu.
 * Agresywne psy w mniejszych miejscowościach biegające luzem
@@ -584,13 +581,20 @@ Orientacyjny godzinowy plan dnia:
 * +30 877 438 5767 - Jrop service
 
 # Regulamin wycieczki
+1. Zgłoszenia odbywają się za pomocą formularza https://forms.gle/YXoUEiVcPxH3hpYQ6.
+1. Podczas zapisów uczestnik zobowiązany jest do wpłacenia zadatku w wysokości 1000 zł, który będzie przeznaczony na pokrycie kosztów noclegu.
+1. Zapisy trwają do 1 marca 2024.
+1. Organizator potwierdza odbycie się wycieczki jeśli zbiorą się minimum 4 osoby, które wpłaciły zadatek.
+1. W momencie zebrania się minimalnej liczby uczestników, którzy wpłacili zadatek, Organizator potwierdzenia odbycia się wycieczki. Wówczas uczestnik samodzielnie nabywa bilet na samolot, a Organizator dokonuje rezerwacji noclegów. Uczestnik nie powinien kupować biletu na samolot przed potwierdzeniem odbycia się wycieczki przez Organizatora.
+1. Jeśli koszt noclegów przekroczy kwotę zadatku, uczestnik zobowiązany jest do dopłacenia różnicy w ciągu 3 dni. Organizator zwraca część zadatku jeśli koszty noclegów okażą się niższe.
+1. W przypadku gdy na wycieczkę nie zgłosi się minimalna liczba osób, Organizator informuje o odwołaniu wycieczki w dniu końca zapisów (1 marca 2024) oraz zwraca zadatek.
+1. Organizator nie zapewnia transportu na lotnisko.
 1. W wycieczce uczestnicy biorą udział na własną odpowiedzialność, niezależnie od warunków pogodowych zastanych na trasach wycieczki i w razie wypadku nie będą dochodzić odszkodowania od Organizatora.
 1. W wycieczce mogą brać udział tylko osoby pełnoletnie.
 1. Wszyscy uczestnicy wycieczki muszą posiadać sprawne rowery, wyposażone zgodnie z przepisami w sprawne hamulce, białe oświetlenie z przodu i czerwone z tyłu, dzwonek.
 1. Wszyscy uczestnicy wycieczki muszą posiadać mapę trasy wycieczki, pompkę rowerową, zestaw naprawczy do kół lub zapasowe dętki, zestaw niezbędnych narzędzi rowerowych.
 1. Obowiązuje nakaz przestrzegania przepisów prawa, w szczególności przepisów ruchu drogowego. Za skutki naruszenia tychże przepisów uczestnik odpowiada osobiście.
 1. Bagaże muszą być umieszczone na rowerze tak, aby zapewnić bezpieczną jazdę.
-1. Organizator nie zapewnia transportu na lotnisko, ani przelotu samolotem.
 1. Organizator nie zapewnia wyżywienia.
 1. Grupa wspólnie wybiera miejsca noclegów i pokrywa ich koszt.
 1. Uczestnik wycieczki wyraża zgodę na publikację jego wizerunku w relacjach zamieszczanych w mediach społecznościowych oraz materiałach promocyjnych Organizatora.
@@ -598,12 +602,9 @@ Orientacyjny godzinowy plan dnia:
 1. Uczestnicy są zobowiązani do wykonywania poleceń Organizatora.
 1. Za szkody wyrządzone przez uczestników wycieczki i za szkody wyrządzone przez osoby trzecie wobec uczestników Organizator nie odpowiada.
 1. Organizator nie zapewnia ubezpieczenia.
-1.  Uczestnicy powinni dbać o zachowanie porządku w miejscach pobytu i pozostawienie tych
-miejsc w stanie nie gorszym, niż zastany na początku.
+1. Uczestnicy powinni dbać o zachowanie porządku w miejscach pobytu i pozostawienie tych miejsc w stanie nie gorszym, niż zastany na początku.
 1. Wycieczka odbędzie się bez względu na warunki pogodowe.
 1. W czasie jazdy obowiązuje całkowity zakaz spożywania alkoholu.
-1. Podczas zapisów obowiązuje zadatek w wysokości 400 zł, który będzie przeznaczony na pokrycie kosztów noclegu.
-1. Zapisy odbywają się telefonicznie u organizatora pod numerem telefonu: _________. Organizator potwierdza uczestnictwo w wycieczce po zapłacie zadatku przez uczestnika.
 
 # Prawo
 * Organizator nie prowadzi działalności gospodarczej w zakresie organizowania imprez turystycznych i realizuje wycieczki okazjonalnie na zasadach niezarobkowych i wyłącznie ograniczonej grupie uczestników. Wycieczka nie podlega ustawie o imprezach turystycznych i powiązanych usługach turystycznych.
